@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r0-m1)](https://git.io/streak-stats)
+
 <!--
 Site très cool pour faire une bannière : https://capsule-render.vercel.app/
 
