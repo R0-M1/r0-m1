@@ -2,6 +2,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r0-m1)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ro-m1.r0-m1&left_color=green&right_color=red)
+
 <!--
 Site très cool pour faire une bannière : https://capsule-render.vercel.app/
 
