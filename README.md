@@ -2,7 +2,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r0-m1)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ro-m1.r0-m1&left_color=green&right_color=red)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0-m1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Site très cool pour faire une bannière : https://capsule-render.vercel.app/
