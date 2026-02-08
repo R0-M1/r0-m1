@@ -2,9 +2,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r0-m1)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0-m1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
 Site très cool pour faire une bannière : https://capsule-render.vercel.app/
 
 
@@ -20,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
